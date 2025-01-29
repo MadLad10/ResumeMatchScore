@@ -29,13 +29,13 @@ The purpose of this project is to build a model that predicts the likelihood of 
 
 - Trained Word2Vec models to capture semantic meanings in text.
 
-###Entity Extraction
+### Entity Extraction
 
 - Extracted key skills and job titles using keyword-based matching.
 
 - Used Named Entity Recognition (NER) techniques to identify relevant entities.
 
-###Machine Learning Models
+### Machine Learning Models
 
 - Trained XGBoost and LightGBM models for predicting job match scores.
 
